@@ -6,7 +6,6 @@ library("countrycode")
 library("grid")
 library("ggthemes")
 getwd()
-setwd("/Users/christinezhang/Desktop/visual/population")
 
 ## Descriptive - is the 2015 revision of 2050 projections higher or lower than previous (2012) projection? How does this differ by country / income level?
  
